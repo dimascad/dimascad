@@ -2,7 +2,9 @@
 
 ## Profile
 
-I am a Materials Science Engineer with a strong background in research and a passion for machine learning. My journey in materials science has been enriched by my role as a research technician, where I have gained valuable insights and experience in various aspects of the field.
+I am a Materials Science & Engineering student and Engineering Technician with expertise in fracture mechanics, corrosion engineering, and electrochemistry. My current work at DNV Energy Systems integrates mechanical testing, electrochemistry, and computational analysis to solve industry-relevant challenges.
+
+Driven by a passion for materials informatics and computational tools, I am actively building skills in Python, MATLAB, TensorFlow, COMSOL, and Wolfram to accelerate scientific discovery and engineering innovation.
 
 ### Tech Stack
 - **Programming Languages:** Python, MATLAB, C++, Rust
