@@ -7,14 +7,14 @@ I am a Materials Science & Engineering student and Engineering Technician with e
 I am actively building skills in Python, MATLAB, TensorFlow, COMSOL, and Wolfram to accelerate scientific discovery and engineering innovation.
 
 ### Tech Stack
-- **Programming Languages:** Python, MATLAB, C++, Rust
+- **Programming Languages:** Python, MATLAB, C++
 
 ### Research Interests
 - Materials Informatics
 - Energy Applications
 
 ### Experience
-- **3.5+ years** in Electrochemistry and Fracture Mechanics
+- **4 years** in Electrochemistry & Fracture Mechanics
 
 ### Personal Interests
 - Anime
